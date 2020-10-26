@@ -10,7 +10,7 @@
 
 | Pattern | Description | Status |
 |:-------:|:----------- |:------:|
-| [Singleton](/creational/singleton) | Restricts instantiation of a type to one object | ✔ |
+| [Singleton](/creational/singleton/singleton.go) | Restricts instantiation of a type to one object | ✔ |
 | [Factory Method](/creational/factory.md) | Defers instantiation of an object to a specialized function for creating instances | ✘ |
 
 ## Running in VS Code
